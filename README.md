@@ -196,7 +196,9 @@ X + Y = 58184
 ## 👨‍💻 Author
 
 Nama: M. Bagus Kuncoro Yekti
+
 Mata Kuliah: Struktur Data
+
 Topik: BigInteger ADT Implementation
 
 ---
